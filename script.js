@@ -57,9 +57,9 @@ window.addEventListener('scroll', () => {
 // Sample chapter modal functionality (placeholder for future implementation)
 const readButtons = document.querySelectorAll('.chapter-item .btn-outline');
 readButtons.forEach(button => {
-    button.addEventListener('click', () => {
-        alert('Sample chapters will be available soon! Check back later.');
-    });
+    //button.addEventListener('click', () => {
+        //alert('Sample chapters will be available soon! Check back later.');
+   // });
 });
 
 // Blog link functionality (placeholder for future implementation)
