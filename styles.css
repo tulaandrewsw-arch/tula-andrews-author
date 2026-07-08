@@ -366,6 +366,9 @@ a {
     max-width: 800px;
     margin: 0 auto;
 }
+.chapter-text {
+    margin-top:1rem;
+}
 
 .chapter-item {
     display: flex;
@@ -397,6 +400,8 @@ a {
 .chapter-excerpt {
     color: var(--text-light);
     font-size: 0.95rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
 }
 
 /* Blog Section */
