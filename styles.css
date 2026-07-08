@@ -318,8 +318,9 @@ a {
 }
 
 .book-cover {
-    height: 250px;
-    background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-dark) 100%);
+    margin-top: 1rem;
+    height: 285px;
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-ligh) 100%);
     display: flex;
     align-items: center;
     justify-content: center;
